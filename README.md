@@ -1,6 +1,6 @@
 👋 Hi, I’m @13tm3nt3r.
-- 👀 I’m interested in learning computer science by my own...
-- 🌱 I’m currently at the University of Castilla-La Mancha and learning web development and something about cybersecurity.
+- 👀 I’m interested in learning computer science.
+- 🌱 I’m currently at the University of Castilla-La Mancha finishing my Computer Science degree.
 <!-- - 📫 You can reach me via email! -- Laura.13.ev@gmail.com -->
 
 <!---
